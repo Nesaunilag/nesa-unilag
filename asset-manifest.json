@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nesa-unilag/static/css/main.95754e1a.css",
-    "main.js": "/nesa-unilag/static/js/main.3df0d5ff.js",
+    "main.css": "/nesa-unilag/static/css/main.a3b1820a.css",
+    "main.js": "/nesa-unilag/static/js/main.59815e24.js",
     "static/js/453.7f57ceca.chunk.js": "/nesa-unilag/static/js/453.7f57ceca.chunk.js",
     "static/media/img_frame_475.png": "/nesa-unilag/static/media/img_frame_475.b0116e4757998d34d2e9.png",
     "static/media/img_frame_476.png": "/nesa-unilag/static/media/img_frame_476.b0116e4757998d34d2e9.png",
@@ -9,12 +9,12 @@
     "static/media/img_group_40.png": "/nesa-unilag/static/media/img_group_40.b0116e4757998d34d2e9.png",
     "static/media/img_group_42.svg": "/nesa-unilag/static/media/img_group_42.b0116e4757998d34d2e9.svg",
     "index.html": "/nesa-unilag/index.html",
-    "main.95754e1a.css.map": "/nesa-unilag/static/css/main.95754e1a.css.map",
-    "main.3df0d5ff.js.map": "/nesa-unilag/static/js/main.3df0d5ff.js.map",
+    "main.a3b1820a.css.map": "/nesa-unilag/static/css/main.a3b1820a.css.map",
+    "main.59815e24.js.map": "/nesa-unilag/static/js/main.59815e24.js.map",
     "453.7f57ceca.chunk.js.map": "/nesa-unilag/static/js/453.7f57ceca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95754e1a.css",
-    "static/js/main.3df0d5ff.js"
+    "static/css/main.a3b1820a.css",
+    "static/js/main.59815e24.js"
   ]
 }
